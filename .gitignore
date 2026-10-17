@@ -1,0 +1,16 @@
+node_modules/
+out/
+web/out/
+public/
+__pycache__/
+recordings/
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.jpg
+*.png
+*.webp
+page-text.md
+!docs/*.jpg
+!docs/*.webp

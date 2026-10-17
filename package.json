@@ -1,0 +1,25 @@
+{
+  "name": "bedtime-storybook-kit",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "description": "Turn a bedtime-story recording into a read-along picture book video (Remotion) and a flip book, with a recipe an AI coding agent can follow.",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "still:cast": "remotion still src/index.ts CastSheet out/cast.png",
+    "render:example": "remotion render src/index.ts ExampleBook out/example.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "@remotion/google-fonts": "4.0.535",
+    "@remotion/player": "4.0.535",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.535"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

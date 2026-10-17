@@ -1,0 +1,14 @@
+{
+ "title": "The Fox Who Could Not Sleep",
+ "told_by": "",
+ "told_to": "the listener",
+ "recorded": "YYYY-MM-DD",
+ "summary": "A small fox named Pip cannot sleep, so an owl named Moon sings him a quiet song until he does.",
+ "words": "stories/example/words.json",
+ "pages": "stories/example/pages.json",
+ "intro": 4.0,
+ "end": 38.0,
+ "outro": 6.0,
+ "credits": "",
+ "caption_fixes": []
+}

@@ -1,0 +1,15 @@
+# One sentence per line, a blank line starts a new page. "@12.3" after a sentence pins its
+# time (seconds); the others are found in words.json by their first words.
+Once there was a little fox named Pip who could not sleep. @1
+
+He counted the stars, but there were too many. @7
+
+An owl called Moon landed on the branch. @13
+“Why are you awake?” she asked.
+
+“I am not sleepy,” said Pip, and yawned. @19
+
+Moon sang him a quiet song about the moon going to bed. @25
+
+And Pip fell asleep in the grass. @31
+The End.
